@@ -47,3 +47,11 @@
 * 运行
 
   jest helloworld --watch(监测模式)
+
+* pre 分支中 testNow 文件夹
+
+  - 测试代码的生成工具
+    - 掌握 fs 中的同步方法
+    - path 包
+  - 生成测试代码
+  - 生成 JEST 文件
